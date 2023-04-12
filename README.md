@@ -19,3 +19,9 @@ Javaで記述したネットワーク型対戦ゲームであれば何を作成�
 <img src="https://user-images.githubusercontent.com/77134979/230759621-c3322376-bdb4-4da1-8661-80aedbb23213.png" width=300>
 <img src="https://user-images.githubusercontent.com/77134979/230759626-1a2aee2e-1991-4371-b9ac-890425e8c619.png" width=500>
 <img src="https://user-images.githubusercontent.com/77134979/230759635-c9a4ea6f-5c60-4288-bccd-813b9a9c2242.png" width=500>
+
+# 動作動画
+
+https://user-images.githubusercontent.com/77134979/231322539-e77462bb-692d-4df5-9dff-3b2c82575822.mp4
+
+
